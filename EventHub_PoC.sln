@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHub_PoC", "EventHub_PoC\EventHub_PoC.csproj", "{54EBEF7C-99E5-4CFC-9600-9BE59321669D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54EBEF7C-99E5-4CFC-9600-9BE59321669D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54EBEF7C-99E5-4CFC-9600-9BE59321669D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54EBEF7C-99E5-4CFC-9600-9BE59321669D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54EBEF7C-99E5-4CFC-9600-9BE59321669D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C41F9B3-992B-4112-B056-A2A9A3193846}
+	EndGlobalSection
+EndGlobal
